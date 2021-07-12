@@ -2,13 +2,13 @@
 
 ## Wrappers
 
-There are currently no wrappers for presence.
+[wrap-presence](https://github.com/punctuations/wrap-pressence) An official wrapper for presence! `Author: Matt (punctuations)`
+- [npm](https://npmjs.org/wrap-presence)
+- [website](https://wrap.presence.im)
 
 ## Hooks
 
-[use-presence](https://github.com/punctuations/use-pressence) An official react hook for presence! `Author: Matt (punctuations)`
- - [npm](https://npmjs.org/use-presence)
- - [website](https://react.presence.im)
+There are currently no hooks for presence.
 
 ## Components
 
