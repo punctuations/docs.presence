@@ -1,5 +1,5 @@
 export default {
-  repository: 'https://github.com/punctuations/presence',
+  repository: 'https://github.com/punctuations/docs.presence',
   titleSuffix: ' – presence',
   logo: (
     <>
