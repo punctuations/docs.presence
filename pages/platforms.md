@@ -11,6 +11,7 @@ Platforms are the heart of this project, and so that why I encourage anyone who 
 | spotify  | artist, song, track | id, id, id                             |
 | twitter  | card, tweet, user   | uname, id, uname                       |
 | youtube  | channel, video      | id, id                                 |
+| twitch   | user, channel       | uname, uname                           |
 
 ## Contributing
 
