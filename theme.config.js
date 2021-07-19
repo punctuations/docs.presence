@@ -5,7 +5,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">presence</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        A simple and elegant solution to images for socials media!
+        A simple and elegant solution to images of your socials media!
       </span>
     </>
   ),
