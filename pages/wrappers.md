@@ -2,7 +2,7 @@
 
 ## Wrappers
 
-[wrap-presence](https://github.com/punctuations/wrap-pressence) An official wrapper for presence! `Author: Matt (punctuations)`
+[wrap-presence](https://github.com/punctuations/wrap-presence) An official wrapper for presence! `Author: Matt (punctuations)`
 - [npm](https://npmjs.org/wrap-presence)
 - [website](https://wrap.presence.im)
 
