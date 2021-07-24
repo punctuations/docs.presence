@@ -5,3 +5,6 @@ yarn-error.log
 dist
 examples
 packages
+
+.idea
+.vscode
