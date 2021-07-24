@@ -4,14 +4,18 @@ Platforms are the heart of this project, and so that why I encourage anyone who 
 
 ## Available platforms
 
-| Platform | Type(s)             | Param(s)                               |
-|----------|---------------------|----------------------------------------|
-| discord  | guild, user         | id, id                                 |
-| github   | card, repo, user    | uname, uname:repo \| uname/repo, uname |
-| spotify  | artist, song, track | id, id, id                             |
-| twitter  | card, tweet, user   | uname, id, uname                       |
-| youtube  | channel, video      | id, id                                 |
-| twitch   | user, channel       | uname, uname                           |
+| Platform    | Type(s)             | Param(s)                                                         |
+|-------------|---------------------|------------------------------------------------------------------|
+| discord     | guild, user         | guild: [id], user: [id]                                          |
+| github      | card, repo, user    | card: [uname], repo: [uname:repo] \| [uname/repo], user: [uname] |
+| spotify     | artist, song, track | artist: [id], song && track: [id]                                |
+| twitter     | card, tweet, user   | card: [uname], tweet: [id], user: [uname]                        |
+| youtube     | channel, video      | channel: [id], video: [id]                                       |
+| twitch      | user, channel       | user: [uname], channel: [uname]                                  |
+| producthunt | posts, user         | posts: [id], all, month, monthly, user: [id]                     |
+| lastfm      | artist, song, track | artist: [uname], song && track: [name:song] \| [name/song]       |
+
+_[:param] represents a dynamic parameter with the information inside the square brackets being the type of data._  
 
 ## Contributing
 
